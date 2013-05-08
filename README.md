@@ -1,3 +1,6 @@
+Repo for testing Hosted Chef (Opscode).
+
+
 Overview
 ========
 
